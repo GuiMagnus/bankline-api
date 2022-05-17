@@ -42,11 +42,11 @@ public class Correntista {
 	public void setCpf(String cpf) {
 		this.cpf = cpf;
 	}
-	public String getNomeString() {
+	public String getNome() {
 		return nome;
 	}
-	public void setNomeString(String nomeString) {
-		this.nome = nomeString;
+	public void setNome(String nome) {
+		this.nome = nome;
 	}
 	
 }
